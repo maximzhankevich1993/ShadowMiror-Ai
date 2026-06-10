@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Shadow Mirror AI — Subconscious Matrix Scanner",
-  description: "Advanced Jungian Persona and Shadow Diagnosis Matrix",
+  title: "Shadow Mirror AI — Subconscious Scanner",
+  description: "Advanced Jungian Persona and Shadow Diagnosis Scanner",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
