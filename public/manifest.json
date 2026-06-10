@@ -6,15 +6,15 @@
   "start_url": "/",
   "name": "Shadow Mirror AI",
   "short_name": "ShadowMirror",
-  "description": "Advanced Jungian Persona and Shadow Diagnosis Matrix",
+  "description": "Advanced Jungian Persona and Shadow Diagnosis Scanner",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "/mirror-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon-512.png",
+      "src": "/mirror-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
